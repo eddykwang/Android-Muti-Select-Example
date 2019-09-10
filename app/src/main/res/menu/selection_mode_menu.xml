@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/delete"
+          android:icon="@drawable/ic_delete_black_24dp"
+          android:title="delete"
+          app:showAsAction="always"
+    />
+    <item android:id="@+id/flag"
+          android:icon="@drawable/ic_flag_black_24dp"
+          android:title="flag"
+          app:showAsAction="always"
+    />
+    <!--<item android:id="@+id/unread"-->
+          <!--android:icon="@drawable/ic_markunread_black_24dp"-->
+          <!--android:title="unread"-->
+          <!--app:showAsAction="ifRoom"-->
+    <!--/>-->
+</menu>
